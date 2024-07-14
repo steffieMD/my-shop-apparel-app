@@ -1,0 +1,19 @@
+:root {
+  --Spacingxxs: 2px;
+  --Spacings: 6px;
+  --Spacingm: 14px;
+  --Spacingl: 28px;
+  --Primary_Primary100: #e1e5f3;
+  --Primary_Primary400: #8597cd;
+  --Primary-Primary700: #3d5395;
+  --Primary-Primary900: #243158;
+  --Primary-Primary1000: #172039;
+  --Neutrals-Neutrals600: #726c6c;
+  --Base-Base_White: #fafafa;
+  --Base-Base_Black: #0a0a0b;
+  --Secondary-Secondary: #ce4f0d;
+}
+
+body {
+  background-color: var(--Base-Base_White);
+}
