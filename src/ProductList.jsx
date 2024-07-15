@@ -71,6 +71,7 @@ function ProductList() {
             totalPosts={productData.length}
             postsPerPage={postsPerPage}
             setCurrentPage={setCurrentPage}
+            currentPage={currentPage}
           />
           <button className="next">Next &gt;</button>
         </div>
